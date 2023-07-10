@@ -1,0 +1,45 @@
+/*common shsre style*/
+body{
+
+    font-family: 'Open Sans', sans-serif;
+}
+.banner{
+    display: flex; 
+    background: rgba(229, 84, 115, 0.10); 
+    width: 1920px;
+    height: 850px;
+    align-items: center;
+
+}
+.banner-title{
+    color: #272727;
+    font-size: 80px;
+    font-weight: 800;
+    display: flex;
+    width: 708px;
+}
+.banner-description{
+    display: flex;
+    width: 634px;
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+.button-primary{
+    display: inline-flex;
+    padding: 20px 43px;
+    align-items: flex-start;
+    gap: 10px;
+    border-radius: 8px;
+    background: #E55473; 
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+
+}
+.banner-img{
+    width: 635px;
+    height: 800px;
+    
+}
