@@ -42,14 +42,18 @@ body{
     font-size: 20px;
     font-weight: 700;
     margin-top: 32px;
+    margin-bottom: 165px;
+    margin-right: 283px;
 
 } 
 .banner-img{
     width: 635px;
     height: 800px;
     flex-shrink: 0; 
-    margin-top: 50px;
-    
-  
-    
+    margin-top: 50px;   
+}
+
+/*Our Featured Flowers section*/
+#section-description{
+    padding:  ;
 }
