@@ -207,3 +207,42 @@ margin: 0px 400px 0px 420px;
     margin-right: 420px;
 
 }
+/*Instagram section*/
+.insta-title{
+
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    margin-top: 125px;
+}
+.insta-description{
+    display: flex;
+    width: 594px;
+   
+    flex-shrink: 0;
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    margin-left: 663px;
+    margin-bottom: 0px;
+
+}
+.insta-img-section{
+    display: flex;
+    width: 342px;
+    height: 396px;
+    flex-shrink: 0;
+    background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+    gap: 24px;
+    justify-content: space-between;
+    margin-left: 240px;
+    margin-right: 240px;
+    margin-top: 48px;
+    margin-bottom: 0px;
+}
