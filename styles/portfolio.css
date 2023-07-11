@@ -87,13 +87,12 @@ line-height: normal;
     display: flex;
     justify-content: space-between;
     gap: 24px;;
-
+    margin-bottom: 125px;
 }
 .flowers1{
     width: 464px;
     height: 538px;
-    width: 310px;
-    height: 428px;
+    
     border-radius: 300px 300px 0px 0px;
     background: rgba(167, 33, 98, 0.15);
     padding: 110px 75px 0px 75px;
@@ -109,8 +108,6 @@ line-height: normal;
 .flowers2{
     width: 464px;
     height: 538px;
-    width: 310px;
-    height: 428px;
     border-radius: 300px 300px 0px 0px;
     padding: 117px 45px 117px 45px;
     background: rgba(5, 151, 160, 0.15);
@@ -125,8 +122,6 @@ line-height: normal;
 .flowers3{
     width: 464px;
     height: 538px;
-    width: 314px;
-    height: 471px;
     border-radius: 300px 300px 0px 0px;
     background: rgba(71, 125, 17, 0.15);
     padding: 110px 75px 0px 75px;
@@ -141,4 +136,74 @@ line-height: normal;
 }
 .icon-title{
     display: flex;
+    width: 1440px;
+    height: 320px;
+   text-align: center;
+   justify-content: space-evenly;
+   border-radius: 8px;
+ background: rgba(39, 39, 39, 0.05);
+ margin-left: 240px;
+ margin-right: 240px;
+}
+.icon-img{
+    width: 88px;
+height: 88px;
+margin: 85px 215px;
+}
+/*Hot Deal ! Sale Up To 25% Off section*/
+.deal-banner{
+    width: 1922px;
+    height: 620px;
+    display: flex;
+    justify-content: space-around;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+    margin-top: 125px;
+
+}
+.deal-banner-title{
+    color: #272727;
+
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+margin: 230px 0px 0px 420px;
+margin-bottom: 0px;
+
+}
+.deal-banner-description{
+    display: flex;
+width: 594px;
+color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+margin: 230px 0px 0px 420px;
+margin-top: 24px;
+}
+.deal-button-primary{
+    display: inline-flex;
+padding: 20px 43px;
+align-items: flex-start;
+gap: 10px;
+border-radius: 8px;
+background: #E55473;
+color: #FFF;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+margin: 0px 400px 0px 420px;
+}
+.deal-banner-img{
+    width: 318px;
+    height: 420px;
+    flex-shrink: 0;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 420px;
+
 }
