@@ -246,3 +246,50 @@ margin: 0px 400px 0px 420px;
     margin-top: 48px;
     margin-bottom: 0px;
 }
+/* Latest section*/
+.Latest{
+    width: 1440px;
+    height: 340px;
+    border-radius: 8px;
+    background: url(../Rectangle\ 9.png), lightgray 0px -203.444px / 100% 213.755% no-repeat;
+   margin-left: 240px;
+   margin-right: 240px;
+   margin-top: 128px;
+text-align: center;
+padding-top: 120px;
+background-repeat: no-repeat;
+margin-bottom: 0px;
+}
+.Latest-title{
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    margin-bottom: ;
+    }
+.Latest-description{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+margin-bottom: 0px;
+}
+.Latest-btn{
+    width: 150px;
+height: 64px;
+border-radius: 8px;
+background: #E55473;
+}
+.Latest-email{
+    width: 700px;
+height: 64px;
+border-radius: 8px;
+background: #FFF;
+margin-top: 48px;
+}
+/* Latest section*/
+footer
