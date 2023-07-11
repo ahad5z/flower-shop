@@ -292,4 +292,24 @@ background: #FFF;
 margin-top: 48px;
 }
 /* Latest section*/
-footer
+footer{
+    width: 1922px;
+height: 449px;
+background: #111010;
+}
+.footres{
+    text-align: center;
+    padding-top: 128px;
+    padding-bottom: 175px;
+}
+.span-footer{
+    color: #E55473;
+}
+.footer-title{
+    color: #FFFFFF;
+}
+.footer-description{
+color: rgba(255, 255, 255, 0.90);
+font-size: 18px;
+
+}
